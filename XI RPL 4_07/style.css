@@ -1,0 +1,68 @@
+body{
+	align-content: center;
+	margin-top: 100px;
+
+}
+
+.judul{
+	text-align: center;
+	font-size: 36px;
+	font-family: Arial;
+
+}
+
+.form{
+	margin-top: 10px;
+	font-size: 20px;
+	font-family: arial;
+	
+}
+
+input[type=text]{
+	width: 100%;
+	padding: 10px 20px;
+	box-sizing: border-box;
+	margin-top: 8px;
+	font-family: arial;
+	font-size: 15px;
+}
+
+input[type=email]{
+	width: 100%;
+	padding: 10px 20px;
+	box-sizing: border-box;
+	margin-top: 8px;
+}
+
+input[type=password]{
+	width: 100%;
+	padding: 10px 20px;
+	box-sizing: border-box;
+	margin-top: 8px;
+}
+
+input[type=submit]{
+	width: 100%;
+	padding: 4px 25px;
+	margin-top: 8px;
+	box-sizing: content-box;
+	align-content: center;
+
+}
+
+input[type=submit] {
+	align-items: center;
+	margin: 10px 50px 10px 40px;
+	width: 200px;
+	padding: 5px
+	text-align: center;
+	width: 225px;
+	font-weight: bold;
+	background-color: #0080ff;
+	color: white;
+	border: 0;
+	font-family: arial;
+	font-size: 15px;
+	margin-left: 550px;
+	
+}
